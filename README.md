@@ -17,11 +17,11 @@ HeTong is an open research initiative dedicated to multilingual and multimodal f
 
 ## Our Projects | 开源项目
 
-- **HeTong Models** — 多语种多模态基础模型家族
-- **HeTongEval** — 开放评测与动态监测平台
-- **HeTongBench** — 多语种多模态评测基准
-- **HeTongRank** — 模型能力排行榜
-- **HeTongReport** — 模型评测报告
+- **[HeTong Models](https://github.com/MUC-HeTong/HeTong)** — 多语种多模态基础模型家族
+- **[HeTongEval](https://github.com/MUC-HeTong/HeTongEval)** — 开放评测与动态监测平台（建设中）
+- **[HeTongBench](https://github.com/MUC-HeTong/HeTongBench)** — 多语种多模态评测基准（规划中）
+- **[HeTongRank](https://github.com/MUC-HeTong/HeTongRank)** — 模型能力排行榜（规划中）
+- **HeTongReport** — 模型评测报告（规划中）
 
 ## Research Directions | 研究方向
 
