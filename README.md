@@ -18,6 +18,12 @@ HeTong is an open research initiative dedicated to multilingual and multimodal f
 - **[HeTongRank](https://github.com/MUC-HeTong/HeTongRank)** — Model capability leaderboards (planned)
 - **HeTongReport** — Model evaluation reports (planned)
 
+## Model Series Repositories
+
+- **[HeTong-NMT](https://github.com/MUC-HeTong/HeTong-NMT)** — Neural machine translation; includes the [BATA terminology adaptation project](https://github.com/MUC-HeTong/HeTong-NMT/tree/main/BATA).
+- **[HeTong-ASR](https://github.com/MUC-HeTong/HeTong-ASR)** — Speech recognition; includes [HeTong-Omni-ASR-300M](https://github.com/MUC-HeTong/HeTong-ASR/tree/main/HeTong-Omni-ASR-300M).
+- **[HeTong-VL](https://github.com/MUC-HeTong/HeTong-VL)** — Vision-language research; the *Seeing_the_unseen* project is pending maintainer handoff.
+
 ## Research Directions
 
 - Multilingual Large Language Models
